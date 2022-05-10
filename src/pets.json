@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/c0.jpeg",
+    "age": 3,
+    "breed": "1.21 ETH",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/c1.jpeg",
+    "age": 3,
+    "breed": "0.88 ETH",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/c2.jpeg",
+    "age": 2,
+    "breed": "0.38 ETH",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/c3.jpeg",
+    "age": 2,
+    "breed": "2.88 ETH",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/c4.jpeg",
+    "age": 2,
+    "breed": "1.43 ETH",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/c5.jpeg",
+    "age": 3,
+    "breed": "5.32 ETH",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/c6.jpeg",
+    "age": 3,
+    "breed": "7.33 ETH",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/c7.jpeg",
+    "age": 3,
+    "breed": "3.01 ETH",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/c8.jpeg",
+    "age": 2,
+    "breed": "0.28 ETH",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/c9.jpeg",
+    "age": 3,
+    "breed": "0.13 ETH",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/c10.jpeg",
+    "age": 2,
+    "breed": "1.28 ETH",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/c11.jpeg",
+    "age": 3,
+    "breed": "1.98 ETH",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/c12.jpeg",
+    "age": 3,
+    "breed": "2.99 ETH",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/c13.jpeg",
+    "age": 4,
+    "breed": "4.98 ETH",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/c14.jpeg",
+    "age": 2,
+    "breed": "1.88 ETH",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/c15.jpeg",
+    "age": 2,
+    "breed": "2.88 ETH",
+    "location": "Dawn, Wisconsin"
+  }
+]
